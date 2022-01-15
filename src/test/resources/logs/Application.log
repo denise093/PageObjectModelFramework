@@ -1,0 +1,152 @@
+INFO    2022-01-12 21:58:29,205 [main] base.Page  - Config file loaded!
+INFO    2022-01-12 21:58:29,206 [main] base.Page  - Config file loaded!
+INFO    2022-01-12 21:58:30,020 [main] io.github.bonigarcia.wdm.WebDriverManager  - Using chromedriver 97.0.4692.71 (resolved driver for Chrome 97)
+INFO    2022-01-12 21:58:30,037 [main] io.github.bonigarcia.wdm.WebDriverManager  - Exporting webdriver.chrome.driver as C:\Users\denni\.cache\selenium\chromedriver\win32\97.0.4692.71\chromedriver.exe
+INFO    2022-01-12 21:58:36,008 [main] base.Page  - Clicking on an Element : loginLink_CSS
+INFO    2022-01-12 21:58:36,142 [main] base.Page  - Typing in an Element : email_CSS entered value as : denise.bumbacea@gmail.com
+INFO    2022-01-12 21:58:36,200 [main] base.Page  - Clicking on an Element : signinbtn_CSS
+INFO    2022-01-12 21:58:36,413 [main] base.Page  - Typing in an Element : password_CSS entered value as : Maimutele1!
+INFO    2022-01-12 21:58:36,469 [main] base.Page  - Clicking on an Element : signinbtn_CSS
+INFO    2022-01-12 22:00:15,528 [main] base.Page  - Config file loaded!
+INFO    2022-01-12 22:00:15,529 [main] base.Page  - Config file loaded!
+INFO    2022-01-12 22:00:16,055 [main] io.github.bonigarcia.wdm.WebDriverManager  - Using chromedriver 97.0.4692.71 (resolved driver for Chrome 97)
+INFO    2022-01-12 22:00:16,073 [main] io.github.bonigarcia.wdm.WebDriverManager  - Exporting webdriver.chrome.driver as C:\Users\denni\.cache\selenium\chromedriver\win32\97.0.4692.71\chromedriver.exe
+INFO    2022-01-12 22:00:23,478 [main] base.Page  - Clicking on an Element : loginLink_CSS
+INFO    2022-01-12 22:00:23,618 [main] base.Page  - Typing in an Element : email_CSS entered value as : denise.bumbacea@gmail.com
+INFO    2022-01-12 22:00:23,670 [main] base.Page  - Clicking on an Element : signinbtn_CSS
+INFO    2022-01-12 22:00:23,888 [main] base.Page  - Typing in an Element : password_CSS entered value as : Maimutele1!
+INFO    2022-01-12 22:00:23,935 [main] base.Page  - Clicking on an Element : signinbtn_CSS
+INFO    2022-01-12 22:00:45,819 [main] base.Page  - Config file loaded!
+INFO    2022-01-12 22:00:45,820 [main] base.Page  - Config file loaded!
+INFO    2022-01-12 22:00:46,873 [main] io.github.bonigarcia.wdm.WebDriverManager  - Reading https://api.github.com/repos/mozilla/geckodriver/releases to seek geckodriver
+INFO    2022-01-12 22:00:47,243 [main] io.github.bonigarcia.wdm.WebDriverManager  - Exporting webdriver.gecko.driver as C:\Users\denni\.cache\selenium\geckodriver\win64\0.30.0\geckodriver.exe
+INFO    2022-01-12 22:00:56,797 [main] base.Page  - Clicking on an Element : loginLink_CSS
+INFO    2022-01-12 22:00:56,869 [main] base.Page  - Typing in an Element : email_CSS entered value as : denise.bumbacea@gmail.com
+INFO    2022-01-12 22:00:57,102 [main] base.Page  - Clicking on an Element : signinbtn_CSS
+INFO    2022-01-12 22:00:57,125 [main] base.Page  - Typing in an Element : password_CSS entered value as : Maimutele1!
+INFO    2022-01-12 22:00:58,843 [main] base.Page  - Clicking on an Element : signinbtn_CSS
+INFO    2022-01-12 22:13:43,969 [main] base.Page  - Config file loaded!
+INFO    2022-01-12 22:13:43,972 [main] base.Page  - Config file loaded!
+INFO    2022-01-12 22:13:44,575 [main] io.github.bonigarcia.wdm.WebDriverManager  - Using chromedriver 97.0.4692.71 (resolved driver for Chrome 97)
+INFO    2022-01-12 22:13:44,597 [main] io.github.bonigarcia.wdm.WebDriverManager  - Exporting webdriver.chrome.driver as C:\Users\denni\.cache\selenium\chromedriver\win32\97.0.4692.71\chromedriver.exe
+INFO    2022-01-12 22:13:51,624 [main] base.Page  - Clicking on an Element : loginLink_CSS
+INFO    2022-01-12 22:13:51,753 [main] base.Page  - Typing in an Element : email_CSS entered value as : denise.bumbacea@gmail.com
+INFO    2022-01-12 22:13:51,816 [main] base.Page  - Clicking on an Element : signinbtn_CSS
+INFO    2022-01-12 22:13:51,971 [main] base.Page  - Typing in an Element : password_CSS entered value as : Maimutele1!
+INFO    2022-01-12 22:13:52,027 [main] base.Page  - Clicking on an Element : signinbtn_CSS
+INFO    2022-01-12 22:22:35,834 [main] base.Page  - Config file loaded!
+INFO    2022-01-12 22:22:35,835 [main] base.Page  - Config file loaded!
+INFO    2022-01-12 22:22:36,168 [main] io.github.bonigarcia.wdm.WebDriverManager  - Using chromedriver 97.0.4692.71 (resolved driver for Chrome 97)
+INFO    2022-01-12 22:22:36,192 [main] io.github.bonigarcia.wdm.WebDriverManager  - Exporting webdriver.chrome.driver as C:\Users\denni\.cache\selenium\chromedriver\win32\97.0.4692.71\chromedriver.exe
+INFO    2022-01-12 22:22:42,462 [main] base.Page  - Clicking on an Element : loginLink_CSS
+INFO    2022-01-12 22:22:42,621 [main] base.Page  - Typing in an Element : email_CSS entered value as : denise.bumbacea@gmail.com
+INFO    2022-01-12 22:22:42,687 [main] base.Page  - Clicking on an Element : signinbtn_CSS
+INFO    2022-01-12 22:22:42,813 [main] base.Page  - Typing in an Element : password_CSS entered value as : Maimutele1!
+INFO    2022-01-12 22:22:42,872 [main] base.Page  - Clicking on an Element : signinbtn_CSS
+INFO    2022-01-12 22:23:44,808 [main] base.Page  - Config file loaded!
+INFO    2022-01-12 22:23:44,809 [main] base.Page  - Config file loaded!
+INFO    2022-01-12 22:23:45,144 [main] io.github.bonigarcia.wdm.WebDriverManager  - Using chromedriver 97.0.4692.71 (resolved driver for Chrome 97)
+INFO    2022-01-12 22:23:45,166 [main] io.github.bonigarcia.wdm.WebDriverManager  - Exporting webdriver.chrome.driver as C:\Users\denni\.cache\selenium\chromedriver\win32\97.0.4692.71\chromedriver.exe
+INFO    2022-01-12 22:23:51,536 [main] base.Page  - Clicking on an Element : loginLink_CSS
+INFO    2022-01-12 22:23:51,651 [main] base.Page  - Typing in an Element : email_CSS entered value as : denise.bumbacea@gmail.com
+INFO    2022-01-12 22:23:51,699 [main] base.Page  - Clicking on an Element : signinbtn_CSS
+INFO    2022-01-12 22:23:51,897 [main] base.Page  - Typing in an Element : password_CSS entered value as : Maimutele1!
+INFO    2022-01-12 22:23:51,950 [main] base.Page  - Clicking on an Element : signinbtn_CSS
+INFO    2022-01-12 22:24:32,095 [main] base.Page  - Config file loaded!
+INFO    2022-01-12 22:24:32,096 [main] base.Page  - Config file loaded!
+INFO    2022-01-12 22:24:32,719 [main] io.github.bonigarcia.wdm.WebDriverManager  - Using chromedriver 97.0.4692.71 (resolved driver for Chrome 97)
+INFO    2022-01-12 22:24:32,741 [main] io.github.bonigarcia.wdm.WebDriverManager  - Exporting webdriver.chrome.driver as C:\Users\denni\.cache\selenium\chromedriver\win32\97.0.4692.71\chromedriver.exe
+INFO    2022-01-12 22:24:39,857 [main] base.Page  - Clicking on an Element : loginLink_CSS
+INFO    2022-01-12 22:24:40,012 [main] base.Page  - Typing in an Element : email_CSS entered value as : denise.bumbacea@gmail.com
+INFO    2022-01-12 22:24:40,074 [main] base.Page  - Clicking on an Element : signinbtn_CSS
+INFO    2022-01-12 22:24:40,304 [main] base.Page  - Typing in an Element : password_CSS entered value as : Maimutele1!
+INFO    2022-01-12 22:24:40,346 [main] base.Page  - Clicking on an Element : signinbtn_CSS
+INFO    2022-01-12 22:37:57,369 [main] base.Page  - Config file loaded!
+INFO    2022-01-12 22:37:57,371 [main] base.Page  - Config file loaded!
+INFO    2022-01-12 22:37:57,902 [main] io.github.bonigarcia.wdm.WebDriverManager  - Using chromedriver 97.0.4692.71 (resolved driver for Chrome 97)
+INFO    2022-01-12 22:37:57,920 [main] io.github.bonigarcia.wdm.WebDriverManager  - Exporting webdriver.chrome.driver as C:\Users\denni\.cache\selenium\chromedriver\win32\97.0.4692.71\chromedriver.exe
+INFO    2022-01-12 22:38:04,733 [main] base.Page  - Clicking on an Element : loginLink_CSS
+INFO    2022-01-12 22:38:04,863 [main] base.Page  - Typing in an Element : email_CSS entered value as : denise.bumbacea@gmail.com
+INFO    2022-01-12 22:38:04,923 [main] base.Page  - Clicking on an Element : signinbtn_CSS
+INFO    2022-01-12 22:38:05,134 [main] base.Page  - Typing in an Element : password_CSS entered value as : Maimutele1!
+INFO    2022-01-12 22:38:05,180 [main] base.Page  - Clicking on an Element : signinbtn_CSS
+INFO    2022-01-12 22:38:05,541 [main] base.Page  - Clicking on an Element : crmlink_CS
+INFO    2022-01-12 22:39:43,517 [main] base.Page  - Config file loaded!
+INFO    2022-01-12 22:39:43,519 [main] base.Page  - Config file loaded!
+INFO    2022-01-12 22:39:43,794 [main] io.github.bonigarcia.wdm.WebDriverManager  - Using chromedriver 97.0.4692.71 (resolved driver for Chrome 97)
+INFO    2022-01-12 22:39:43,815 [main] io.github.bonigarcia.wdm.WebDriverManager  - Exporting webdriver.chrome.driver as C:\Users\denni\.cache\selenium\chromedriver\win32\97.0.4692.71\chromedriver.exe
+INFO    2022-01-12 22:39:50,570 [main] base.Page  - Clicking on an Element : loginLink_CSS
+INFO    2022-01-12 22:39:50,705 [main] base.Page  - Typing in an Element : email_CSS entered value as : denise.bumbacea@gmail.com
+INFO    2022-01-12 22:39:50,757 [main] base.Page  - Clicking on an Element : signinbtn_CSS
+INFO    2022-01-12 22:39:50,959 [main] base.Page  - Typing in an Element : password_CSS entered value as : Maimutele1!
+INFO    2022-01-12 22:39:51,017 [main] base.Page  - Clicking on an Element : signinbtn_CSS
+INFO    2022-01-12 22:39:51,372 [main] base.Page  - Clicking on an Element : crmlink_CS
+INFO    2022-01-12 22:41:04,906 [main] base.Page  - Config file loaded!
+INFO    2022-01-12 22:41:04,907 [main] base.Page  - Config file loaded!
+INFO    2022-01-12 22:41:05,257 [main] io.github.bonigarcia.wdm.WebDriverManager  - Using chromedriver 97.0.4692.71 (resolved driver for Chrome 97)
+INFO    2022-01-12 22:41:05,293 [main] io.github.bonigarcia.wdm.WebDriverManager  - Exporting webdriver.chrome.driver as C:\Users\denni\.cache\selenium\chromedriver\win32\97.0.4692.71\chromedriver.exe
+INFO    2022-01-12 22:41:11,970 [main] base.Page  - Clicking on an Element : loginLink_CSS
+INFO    2022-01-12 22:41:12,103 [main] base.Page  - Typing in an Element : email_CSS entered value as : denise.bumbacea@gmail.com
+INFO    2022-01-12 22:41:12,153 [main] base.Page  - Clicking on an Element : signinbtn_CSS
+INFO    2022-01-12 22:57:44,483 [main] base.Page  - Config file loaded!
+INFO    2022-01-12 22:57:44,484 [main] base.Page  - Config file loaded!
+INFO    2022-01-12 22:57:44,778 [main] io.github.bonigarcia.wdm.WebDriverManager  - Using chromedriver 97.0.4692.71 (resolved driver for Chrome 97)
+INFO    2022-01-12 22:57:44,800 [main] io.github.bonigarcia.wdm.WebDriverManager  - Exporting webdriver.chrome.driver as C:\Users\denni\.cache\selenium\chromedriver\win32\97.0.4692.71\chromedriver.exe
+INFO    2022-01-12 22:57:50,231 [main] base.Page  - Clicking on an Element : loginLink_CSS
+INFO    2022-01-12 22:57:50,365 [main] base.Page  - Typing in an Element : email_CSS entered value as : denise.bumbacea@gmail.com
+INFO    2022-01-12 22:57:50,417 [main] base.Page  - Clicking on an Element : signinbtn_CSS
+INFO    2022-01-13 17:39:48,345 [main] base.Page  - Config file loaded!
+INFO    2022-01-13 17:39:48,449 [main] base.Page  - Config file loaded!
+INFO    2022-01-13 17:39:48,743 [main] io.github.bonigarcia.wdm.WebDriverManager  - Using chromedriver 97.0.4692.71 (resolved driver for Chrome 97)
+INFO    2022-01-13 17:39:48,761 [main] io.github.bonigarcia.wdm.WebDriverManager  - Exporting webdriver.chrome.driver as C:\Users\denni\.cache\selenium\chromedriver\win32\97.0.4692.71\chromedriver.exe
+INFO    2022-01-13 17:39:54,507 [main] base.Page  - Clicking on an Element : loginLink_CSS
+INFO    2022-01-13 17:39:54,645 [main] base.Page  - Typing in an Element : email_CSS entered value as : denise.bumbacea@gmail.com
+INFO    2022-01-13 17:39:54,705 [main] base.Page  - Clicking on an Element : signinbtn_CSS
+INFO    2022-01-13 17:39:54,902 [main] base.Page  - Typing in an Element : password_CSS entered value as : Maimutele1!
+INFO    2022-01-13 17:39:54,949 [main] base.Page  - Clicking on an Element : signinbtn_CSS
+INFO    2022-01-15 17:02:58,076 [main] base.Page  - Config file loaded!
+INFO    2022-01-15 17:02:58,098 [main] base.Page  - Config file loaded!
+INFO    2022-01-15 17:02:58,399 [main] io.github.bonigarcia.wdm.WebDriverManager  - Using chromedriver 97.0.4692.71 (resolved driver for Chrome 97)
+INFO    2022-01-15 17:02:58,416 [main] io.github.bonigarcia.wdm.WebDriverManager  - Exporting webdriver.chrome.driver as C:\Users\denni\.cache\selenium\chromedriver\win32\97.0.4692.71\chromedriver.exe
+INFO    2022-01-15 17:03:05,741 [main] base.Page  - Clicking on an Element : loginLink_CSS
+INFO    2022-01-15 17:03:06,288 [main] base.Page  - Typing in an Element : email_CSS entered value as : denise.bumbacea@gmail.com
+INFO    2022-01-15 17:03:06,385 [main] base.Page  - Clicking on an Element : signinbtn_CSS
+INFO    2022-01-15 17:03:06,614 [main] base.Page  - Typing in an Element : password_CSS entered value as : Maimutele1!
+INFO    2022-01-15 17:03:06,666 [main] base.Page  - Clicking on an Element : signinbtn_CSS
+INFO    2022-01-15 17:05:07,490 [main] base.Page  - Config file loaded!
+INFO    2022-01-15 17:05:07,492 [main] base.Page  - Config file loaded!
+INFO    2022-01-15 17:05:07,777 [main] io.github.bonigarcia.wdm.WebDriverManager  - Using chromedriver 97.0.4692.71 (resolved driver for Chrome 97)
+INFO    2022-01-15 17:05:07,795 [main] io.github.bonigarcia.wdm.WebDriverManager  - Exporting webdriver.chrome.driver as C:\Users\denni\.cache\selenium\chromedriver\win32\97.0.4692.71\chromedriver.exe
+INFO    2022-01-15 17:05:14,886 [main] base.Page  - Clicking on an Element : loginLink_CSS
+INFO    2022-01-15 17:05:15,133 [main] base.Page  - Typing in an Element : email_CSS entered value as : denise.bumbacea@gmail.com
+INFO    2022-01-15 17:05:15,245 [main] base.Page  - Clicking on an Element : signinbtn_CSS
+INFO    2022-01-15 17:05:15,378 [main] base.Page  - Typing in an Element : password_CSS entered value as : Maimutele1!
+INFO    2022-01-15 17:05:15,439 [main] base.Page  - Clicking on an Element : signinbtn_CSS
+INFO    2022-01-15 17:05:32,470 [main] base.Page  - Clicking on an Element : crmlink_CSS
+INFO    2022-01-15 17:05:32,696 [main] base.Page  - Clicking on an Element : accounts_CSS
+INFO    2022-01-15 17:05:32,697 [main] base.Page  - Clicking on an Element : createaccountsbtn
+INFO    2022-01-15 17:21:52,858 [main] base.Page  - Config file loaded!
+INFO    2022-01-15 17:21:52,859 [main] base.Page  - Config file loaded!
+INFO    2022-01-15 17:21:53,159 [main] io.github.bonigarcia.wdm.WebDriverManager  - Using chromedriver 97.0.4692.71 (resolved driver for Chrome 97)
+INFO    2022-01-15 17:21:53,178 [main] io.github.bonigarcia.wdm.WebDriverManager  - Exporting webdriver.chrome.driver as C:\Users\denni\.cache\selenium\chromedriver\win32\97.0.4692.71\chromedriver.exe
+INFO    2022-01-15 17:21:59,833 [main] base.Page  - Clicking on an Element : loginLink_CSS
+INFO    2022-01-15 17:21:59,970 [main] base.Page  - Typing in an Element : email_CSS entered value as : denise.bumbacea@gmail.com
+INFO    2022-01-15 17:22:00,029 [main] base.Page  - Clicking on an Element : signinbtn_CSS
+INFO    2022-01-15 17:22:00,235 [main] base.Page  - Typing in an Element : password_CSS entered value as : Maimutele1!
+INFO    2022-01-15 17:22:00,285 [main] base.Page  - Clicking on an Element : signinbtn_CSS
+INFO    2022-01-15 17:22:17,586 [main] base.Page  - Clicking on an Element : crmlink_CSS
+INFO    2022-01-15 17:22:17,751 [main] base.Page  - Clicking on an Element : accounts_CSS
+INFO    2022-01-15 17:22:17,751 [main] base.Page  - Clicking on an Element : createaccountsbtn
+INFO    2022-01-15 17:32:07,676 [main] base.Page  - Config file loaded!
+INFO    2022-01-15 17:32:07,677 [main] base.Page  - Config file loaded!
+INFO    2022-01-15 17:32:07,962 [main] io.github.bonigarcia.wdm.WebDriverManager  - Using chromedriver 97.0.4692.71 (resolved driver for Chrome 97)
+INFO    2022-01-15 17:32:07,981 [main] io.github.bonigarcia.wdm.WebDriverManager  - Exporting webdriver.chrome.driver as C:\Users\denni\.cache\selenium\chromedriver\win32\97.0.4692.71\chromedriver.exe
+INFO    2022-01-15 17:32:24,839 [main] base.Page  - Clicking on an Element : loginLink_CSS
+INFO    2022-01-15 17:32:24,969 [main] base.Page  - Typing in an Element : email_CSS entered value as : denise.bumbacea@gmail.com
+INFO    2022-01-15 17:32:25,023 [main] base.Page  - Clicking on an Element : signinbtn_CSS
+INFO    2022-01-15 17:32:25,556 [main] base.Page  - Typing in an Element : password_CSS entered value as : Maimutele1!
+INFO    2022-01-15 17:32:25,621 [main] base.Page  - Clicking on an Element : signinbtn_CSS
+INFO    2022-01-15 17:32:43,879 [main] base.Page  - Clicking on an Element : crmlink_CSS
+INFO    2022-01-15 17:32:44,118 [main] base.Page  - Clicking on an Element : accounts_CSS
+INFO    2022-01-15 17:32:44,975 [main] base.Page  - Clicking on an Element : createaccountsbtn_CSS
+INFO    2022-01-15 17:32:46,463 [main] base.Page  - Typing in an Element : accountname_CSS entered value as : Denise
